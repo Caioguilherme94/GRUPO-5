@@ -18,7 +18,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 * Indride Almeida dos Santos
 * Luiz Henrique Azevedo Oliveira
 * Wendell Henrique Bernardo Cerqueira
-* 
+* Josué Santos Silva
 *
 
 ## Orientador
